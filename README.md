@@ -1,37 +1,4 @@
-# Script-para-prova-sala-do-futuro-
-Esse script e um para a prova Paulista 
-
-
-
-                    ">âœ•</button>
-                </div>
-                <div style="padding: 25px; background: #000011;" id="input-section">
-                    <textarea id="json-area" placeholder="Cole seu JSON aqui..." style="
-                        width: 100%; height: 180px; padding: 16px;
-                        background: #001133; color: #99ccff;
-                        border: 1px solid rgba(0, 102, 255, 0.3);
-                        border-radius: 8px; font-family: monospace;
-                        resize: vertical; outline: none;
-                        box-shadow: inset 0 1px 4px rgba(0,0,0,0.6);
-                    "></textarea>
-                    <button id="proc-btn" style="
-                        margin-top: 18px; width: 100%; padding: 13px;
-                        background: linear-gradient(135deg, #0066ff, #003366);
-                        color: white; border: none; border-radius: 8px;
-                        font-weight: 600; cursor: pointer;
-                        box-shadow: 0 3px 15px rgba(0, 102, 255, 0.4);
-                    ">ðŸŽ¯ Processar Gabarito</button>
-                </div>
-                <div id="result-section" style="padding: 0 25px 25px; display: none;">
-                    <div id="result" style="
-                        margin-top: 25px; padding: 20px;
-                        background: #000000; border-radius: 8px;
-                        color: #99ccff; min-height: 60px;
-                        max-height: 500px; overflow-y: auto; line-height: 1.6;
-                    "></div>
-                </div>
-                <div style="
-                    padding: 12px 24px; background: #000; border-top: 1px solid #003366;
+solid #003366;
                     font-size: 12px; color: #666; text-align: center;
                 ">
                     Feito por <a href="https://github.com/KilluaWq" target="_blank" style="color:#6699ff; text-decoration: none; font-weight: bold;">@bakai</a> & 
